@@ -1,5 +1,4 @@
-# ejOnready
-Ejercicio - Onready
+# Ejercicio - Onready
 
 ## Cómo ejecutar:
 ```
